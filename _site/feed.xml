@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-19T20:22:13+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">WS Labs</title><subtitle>Business, Science and Technology</subtitle><entry><title type="html">Product Development</title><link href="http://localhost:4000/product%20management/2020/04/19/ProductDevelopment.html" rel="alternate" type="text/html" title="Product Development" /><published>2020-04-19T00:00:00+05:30</published><updated>2020-04-19T00:00:00+05:30</updated><id>http://localhost:4000/product%20management/2020/04/19/ProductDevelopment</id><content type="html" xml:base="http://localhost:4000/product%20management/2020/04/19/ProductDevelopment.html">&lt;p&gt;People have been developing products since aeons. What is the thinking needed to develop a product? A general framework is discussed here.&lt;/p&gt;</content><author><name></name></author><summary type="html">People have been developing products since aeons. What is the thinking needed to develop a product? A general framework is discussed here.</summary></entry><entry><title type="html">Data Science and Product Design - Making it seamless</title><link href="http://localhost:4000/product%20management/2020/01/18/datascience-product-deisgn.html" rel="alternate" type="text/html" title="Data Science and Product Design - Making it seamless" /><published>2020-01-18T00:00:00+05:30</published><updated>2020-01-18T00:00:00+05:30</updated><id>http://localhost:4000/product%20management/2020/01/18/datascience-product-deisgn</id><content type="html" xml:base="http://localhost:4000/product%20management/2020/01/18/datascience-product-deisgn.html">&lt;p&gt;How do we design a product? What thinking needs to go behind a product?&lt;/p&gt;
+
+&lt;h1 id=&quot;product-design&quot;&gt;Product Design&lt;/h1&gt;
+
+&lt;p&gt;Product Design is directly inline with Customer Success. Data science and engineering are tools to design a great product.&lt;/p&gt;
+
+&lt;p&gt;A good product has following requirement&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Easy to use&lt;/li&gt;
+  &lt;li&gt;Fullfil a specific client’s need&lt;/li&gt;
+  &lt;li&gt;Minimal features that serve the purpose&lt;/li&gt;
+  &lt;li&gt;looks appealing in a visual sense&lt;/li&gt;
+  &lt;li&gt;Works consistently&lt;/li&gt;
+  &lt;li&gt;Biggest differentiator or a stand out in the market&lt;/li&gt;
+  &lt;li&gt;Not easy to replicate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-do-we-shape-a-product&quot;&gt;How do we shape a product?&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Does it solve a customer’s pain point?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Recent example is when I went to puchase living room carpets at a local market in Bangalore, I was asked to pay in cash to avoid incurring credit/debit fees. Please note, there is a &lt;a href=&quot;https://taxguru.in/income-tax/rs-2-lakh-cash-transaction-limit-wef-01apr2017-details-examples.html&quot;&gt;limit&lt;/a&gt; on the cash transaction in India. It benefits both the merchant and the buyer to avoid transaction fees, if the amounts are small.  Can we solve this problem? A new fintech maybe with lower transaction fees or waived off fully.&lt;/p&gt;
+
+&lt;p&gt;Data science and engineering teams can help identify the ideal transaction fees or risk-reward profiles to choose for offering to customers who want to make purchase through new systems&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What features can be built to the product?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Product may require just to fulfil one function, in that case we have to be pick and choose features that work well every time&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Defining the quality of the product?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Product scope must be well-defined and the product must yield expected and consistent results.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What should be the life of the product?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;data-science-and-product-management&quot;&gt;Data science and Product Management&lt;/h1&gt;
+
+&lt;p&gt;Earlier approaches of decision making inside a product was drive primarily by a rule-based system or a fuzzy-logic sytem. This has been replaced with decision making by purely a data-driven approach. The products will continue to evolve into learning based systems, with reinforcement lerning algorithms and other AI techniques powering the product.&lt;/p&gt;
+
+&lt;h2 id=&quot;competition&quot;&gt;Competition&lt;/h2&gt;
+
+&lt;p&gt;Following are critical decisions&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Who is going to be my customer?&lt;/li&gt;
+  &lt;li&gt;What do I offer to my customer that no other competitor can provide right now?&lt;/li&gt;
+  &lt;li&gt;Are most of the features being used by my customer?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;way-forward&quot;&gt;Way forward&lt;/h1&gt;
+
+&lt;p&gt;Product management is at its core a multi-tasking job. A clear set of priorities by the day, week, month annd quarterly is essential to succeed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hbr.org/2011/05/twelve-ways-to-create-barriers&quot;&gt;Twelve ways to create barriers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/#192c76b16aaa&quot;&gt;Ten principles on the journey to building great products&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">How do we design a product? What thinking needs to go behind a product?</summary></entry></feed>
